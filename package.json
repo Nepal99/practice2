@@ -1,0 +1,23 @@
+{
+  "name": "practice2",
+  "version": "1.0.0",
+  "description": "angular practice-2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nepal99/practice2.git"
+  },
+  "keywords": [
+    "angular",
+    "react"
+  ],
+  "author": "nepal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nepal99/practice2/issues"
+  },
+  "homepage": "https://github.com/Nepal99/practice2#readme"
+}
